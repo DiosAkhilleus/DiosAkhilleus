@@ -1,4 +1,6 @@
-### Hi there, welcome to my GitHub
+![Banner](https://user-images.githubusercontent.com/71934941/232840640-02ebca26-6e2b-4cee-92c7-a62ae5263a26.png)
+
+### Hi there, welcome to my GitHub! You'll get to know a bit more about my skills and who I am through this Readme.
 
 #### 💻 Technical Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
