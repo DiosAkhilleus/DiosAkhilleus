@@ -19,7 +19,7 @@
 
 #### 🔭 I’m currently working on
 * An NFC-Tag dog collar / pet management system
-* A recipe management tool
+* Project Akhos – A Greek & Latin Morphology Tool
 
 
 #### 💬 Ask me about
